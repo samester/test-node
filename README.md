@@ -7,7 +7,7 @@ In one hour :
 
 read the readme and spec file of each test to resolve it
 
-! Please don't fork the repo, clone it and add it to your github
+! Please don't fork this repo, clone it and add it to your github
 
 ## Requirements
 
