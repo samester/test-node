@@ -17,7 +17,7 @@ natural numbers is 3025 - 385 = 2640.
 Install assignment dependencies:
 
 ```bash
-$ npm install
+$ yarn install
 ```
 
 ## Making the test suite pass
@@ -25,7 +25,7 @@ $ npm install
 Execute the tests with:
 
 ```bash
-$ npm test
+$ yarn test
 ```
 
 

@@ -12,7 +12,7 @@ like Portable Network Graphics to its acronym (PNG).
 Install assignment dependencies:
 
 ```bash
-$ npm install
+$ yarn install
 ```
 
 ## Making the test suite pass
@@ -20,7 +20,7 @@ $ npm install
 Execute the tests with:
 
 ```bash
-$ npm test
+$ yanr test
 ```
 
 ## Source
